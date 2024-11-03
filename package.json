@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.1.4",
+        "axios": "^0.25",
+        "browser-sync": "^2.27.7",
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "rollup": "^4.24.3",
+        "sass": "^1.49.7",
+        "sass-loader": "^12.1.0"
+    },
+    "dependencies": {
+        "vue": "^3.5.12",
+        "vue-router": "^4.0.13"
+    }
+}
